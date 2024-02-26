@@ -1,0 +1,1 @@
+﻿select * from accounts where c_id = 123;
